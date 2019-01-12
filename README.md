@@ -1,0 +1,1 @@
+Webpack scheme to kickstart new apps
